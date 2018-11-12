@@ -1,0 +1,9 @@
+<page>
+   <item name="Scene.scene" props="" ifExport="默认" aName="主场景"/>
+   <item name="view/LoadView.scene" props="" ifExport="默认" aName="加载界面"/>
+   <item name="view/GameView.scene" props="" ifExport="默认" aName="主界面"/>
+   <item name="component/TopControlComponent.scene" props="" ifExport="默认" aName="用户麦克等控制"/>
+   <item name="GameView.scene" props="" ifExport="默认" aName="主游戏界面"/>
+   <item name="LoadView.scene" props="" ifExport="默认" aName="加载界面"/>
+   <item name="MainScene.scene" props="" ifExport="默认" aName="主场景"/>
+</page>

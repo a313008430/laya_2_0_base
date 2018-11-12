@@ -1,0 +1,37 @@
+{
+    "x":0,
+    "type":"Image",
+    "selectedBox":8,
+    "selecteID":9,
+    "props":{"y":0,"x":0,"width":450,"skin":"scene/game_bg_alpha_70.png","sizeGrid":"2,2,2,2","presetID":1,"preset":"laya/pages/component/GameAlertComponent.prefab","isPresetRoot":true,"height":90,"centerY":0,"centerX":0},
+    "nodeParent":-1,
+    "label":"Image(GameAlertComponent)",
+    "isOpen":true,
+    "isDirectory":true,
+    "isAniNode":true,
+    "hasChild":true,
+    "compId":8,
+    "child":[
+        {
+            "x":15,
+            "type":"Label",
+            "props":{"width":437,"valign":"middle","presetID":2,"preset":"laya/pages/component/GameAlertComponent.prefab","name":"content","height":63,"fontSize":24,"color":"#ffffff","centerY":0,"centerX":0,"align":"center"},
+            "nodeParent":8,
+            "label":"content",
+            "isDirectory":false,
+            "isAniNode":true,
+            "hasChild":false,
+            "compId":9,
+            "child":[
+                ]
+        }],
+    "animations":[
+        {
+            "nodes":[
+                ],
+            "name":"ani1",
+            "id":1,
+            "frameRate":24,
+            "action":0
+        }]
+}

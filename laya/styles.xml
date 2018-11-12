@@ -1,0 +1,5 @@
+<res>
+   <item name="res" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="load/loading2.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="load/loading1.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+</res>

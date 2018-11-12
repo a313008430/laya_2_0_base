@@ -1,0 +1,24 @@
+D .
+D load
+P D7551527 img_loading3.png
+P 94654CE5 loading.png
+P B4B8FDA8 loading1.png
+P 3A0110B5 loading2.png
+P 0C382BB6 VS.png
+D res
+D scene
+P 3B733FC1 add_friend.png
+P CCC8DC0D game_bg_alpha_50.png
+P 95638197 game_bg_alpha_70.png
+P 5058E228 horn_close.png
+P 66142FA0 horn_open.png
+P E5E868AD mike_close.png
+P 40A53B09 mike_close_1.png
+P 39420461 mike_open.png
+P 9AA2410A mike_open_1.png
+P 8FEE2DF9 question_icon.png
+P 2E2DD903 sex_icon_1.png
+P 3AD835AD sex_icon_2.png
+P 5CFE524A sound_close.png
+P 7B7489C6 sound_open.png
+P F8DBF9E2 wifi.png
